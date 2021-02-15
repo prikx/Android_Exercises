@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WizardApp</string>
+    <string name="StartButton">Start Wizard</string>
+    <string name="WelcomeText">Welcome to the wizard app.\\n Please start the application and enter your personal data</string>
+    <string name="NameLabel">Enter your name here:</string>
+    <string name="NameInput">Name Surname</string>
+    <string name="SendButton">Send</string>
+    <string name="AdressLabel">Enter your address here:</string>
+    <string name="AddressFirstLine">Streetname, Buildingnumber</string>
+    <string name="AddressSecondLine">Zip Code, City</string>
+    <string name="DateLabel">Enter your date of birth here:</string>
+    <string name="SummaryLabel">Summary of your data</string>
+</resources>
