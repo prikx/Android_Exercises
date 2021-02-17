@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lecture2-ColorChanger</string>
+    <string name="ColorCanvasButton">Color Canvas</string>
+    <string name="ColorChangerButton">Color Changer</string>
 </resources>
