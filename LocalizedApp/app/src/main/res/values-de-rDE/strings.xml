@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LokalisierteApp</string>
+    <string name="NextButton">Nächstes</string>
+    <string name="PreviousButton">Vorheriges</string>
+</resources>
