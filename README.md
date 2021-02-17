@@ -7,3 +7,5 @@
 **Lecture 2** - WizardApp
 
 **Lecture 3** - ColorChangerApp
+
+**Lecture 4** - LocalizedApp
