@@ -8,4 +8,4 @@
 
 **Lecture 3** - ColorChangerApp
 
-**Lecture 4** - LocalizedApp
+**Lecture 4** - LocalizedApp, MVVM_App
