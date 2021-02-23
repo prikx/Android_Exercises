@@ -1,4 +1,6 @@
 # Android Exercises
+---
+Descriptions of the exercises can be found in their respective folders
 
 ## Exercises
 
