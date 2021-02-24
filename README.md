@@ -13,3 +13,5 @@ Descriptions of the exercises can be found in their respective folders
 **Lecture 4** - LocalizedApp, MVVM_App
 
 **Lecture 5** - RecyclerViewApp
+
+**Lecture 6** - ColorFragmentApp
