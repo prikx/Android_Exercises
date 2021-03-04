@@ -16,4 +16,4 @@ Descriptions of the exercises can be found in their respective folders
 
 **Lecture 6** - ColorFragmentApp, ArticleFragmentApp (_WIP_)
 
-**Lecture 7** - GlideApp, ViewBindingApp (_WIP_)
+**Lecture 7** - GlideApp, View/DataBindingApp
