@@ -19,3 +19,5 @@ Descriptions of the exercises can be found in their respective folders
 **Lecture 7** - GlideApp, View/DataBindingApp
 
 **Lecture 8** - DatabaseWizardApp
+
+**Lecture 9** - ThreadApp, ChuckNorrisThreadApp(_unspicy_)
